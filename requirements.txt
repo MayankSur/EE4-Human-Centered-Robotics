@@ -7,5 +7,5 @@ google-cloud
 google-cloud-speech
 google-cloud-texttospeech
 spacy
-tensorflow==1.14
+tensorflow==2.9.3
 object-detection
